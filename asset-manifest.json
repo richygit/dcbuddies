@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/dcbuddies/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/dcbuddies/static/js/main.65d7fe48.chunk.js",
-    "main.js.map": "/dcbuddies/static/js/main.65d7fe48.chunk.js.map",
-    "runtime-main.js": "/dcbuddies/static/js/runtime-main.4254ee58.js",
-    "runtime-main.js.map": "/dcbuddies/static/js/runtime-main.4254ee58.js.map",
-    "static/js/2.bf297d8d.chunk.js": "/dcbuddies/static/js/2.bf297d8d.chunk.js",
-    "static/js/2.bf297d8d.chunk.js.map": "/dcbuddies/static/js/2.bf297d8d.chunk.js.map",
-    "static/js/3.c1284fc4.chunk.js": "/dcbuddies/static/js/3.c1284fc4.chunk.js",
-    "static/js/3.c1284fc4.chunk.js.map": "/dcbuddies/static/js/3.c1284fc4.chunk.js.map",
+    "main.css": "/dcbuddies/static/css/main.61dcb271.chunk.css",
+    "main.js": "/dcbuddies/static/js/main.646e1ec3.chunk.js",
+    "main.js.map": "/dcbuddies/static/js/main.646e1ec3.chunk.js.map",
+    "runtime-main.js": "/dcbuddies/static/js/runtime-main.97f8e0d7.js",
+    "runtime-main.js.map": "/dcbuddies/static/js/runtime-main.97f8e0d7.js.map",
+    "static/css/2.3ab4f688.chunk.css": "/dcbuddies/static/css/2.3ab4f688.chunk.css",
+    "static/js/2.9359ee84.chunk.js": "/dcbuddies/static/js/2.9359ee84.chunk.js",
+    "static/js/2.9359ee84.chunk.js.map": "/dcbuddies/static/js/2.9359ee84.chunk.js.map",
+    "static/js/3.14bec643.chunk.js": "/dcbuddies/static/js/3.14bec643.chunk.js",
+    "static/js/3.14bec643.chunk.js.map": "/dcbuddies/static/js/3.14bec643.chunk.js.map",
     "index.html": "/dcbuddies/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/dcbuddies/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.bf297d8d.chunk.js.LICENSE.txt": "/dcbuddies/static/js/2.bf297d8d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/dcbuddies/static/media/logo.6ce24c58.svg"
+    "static/css/2.3ab4f688.chunk.css.map": "/dcbuddies/static/css/2.3ab4f688.chunk.css.map",
+    "static/css/main.61dcb271.chunk.css.map": "/dcbuddies/static/css/main.61dcb271.chunk.css.map",
+    "static/js/2.9359ee84.chunk.js.LICENSE.txt": "/dcbuddies/static/js/2.9359ee84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4254ee58.js",
-    "static/js/2.bf297d8d.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.65d7fe48.chunk.js"
+    "static/js/runtime-main.97f8e0d7.js",
+    "static/css/2.3ab4f688.chunk.css",
+    "static/js/2.9359ee84.chunk.js",
+    "static/css/main.61dcb271.chunk.css",
+    "static/js/main.646e1ec3.chunk.js"
   ]
 }
